@@ -1,0 +1,2 @@
+# AI-Powered-Mental-Health-Chatbot-with-Conversational-Memory
+An AI-powered mental health support chatbot developed using FastAPI and LangChain that delivers empathetic, context-aware conversations through conversational memory. It supports both OpenAI and local Ollama models, enabling personalized, continuous user interactions while ensuring ethical, safe, and accessible mental health assistance.
